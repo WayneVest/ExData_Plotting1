@@ -17,8 +17,10 @@ This common, cleaned, data is used for the following:
 
 - - -
 
-### Common data
+### common_data.R
 This dataset is a clean version of the raw data, including only the desired observations that are to be used in all plots (observations from 1st Feb 2007 until 2nd Feb 2007, inclusive).
+
+The common_data.R script fulfils all of the steps in this section.
 
 
 #### Data cleaning
